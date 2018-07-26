@@ -1,0 +1,7 @@
+C:\Users\ggabbi\source\repos\Anagram\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\ggabbi\source\repos\Anagram\Anagram\bin\Debug\Anagram.exe
+C:\Users\ggabbi\source\repos\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\Users\ggabbi\source\repos\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\ggabbi\source\repos\Anagram\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\Anagram\Anagram\obj\Debug\Anagram.exe
+C:\Users\ggabbi\source\repos\Anagram\Anagram\obj\Debug\Anagram.pdb
